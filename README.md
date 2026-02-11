@@ -18,8 +18,6 @@ Crianças de 4 a 10 anos.
 
 Projeto de Inteligência Artificial Educativa.
 
-## Objetivo
-Criar uma IA para ajudar crianças a aprender de forma divertida.
 
 ## Público
 Crianças de 4 a 10 anos.
