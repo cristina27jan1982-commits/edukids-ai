@@ -27,4 +27,4 @@ Cristina Santos
 ## 👩‍💻 Criadora
 Cristina Santos
 
-j
+Lumi: Uma IA com olhos grandes focada em criar laços afetivos e facilitar o aprendizado infantil.
